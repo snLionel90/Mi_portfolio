@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Mi portfolio para presentacion personal y para empresas creada con html5,css y JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "portfolio",
+    "html5",
+    "web",
+    "web_developing",
+    "css",
+    "javascript",
+    "snlionel90"
+  ],
+  "author": "snLionel90",
+  "license": "ISC"
+}

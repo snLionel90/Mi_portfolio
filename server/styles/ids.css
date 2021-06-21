@@ -1,0 +1,38 @@
+/*bloque para los id*/
+/*CONTENEDORES*/
+#title{
+    top: 14px;
+    float: left;
+}
+
+#hcontainer{
+    position: relative;
+    width: 1200px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #505050;
+    
+  }
+/*Iconos*/
+#icons-container{
+    position: relative;
+    top:9px;
+    float: right;
+  }
+
+/*Portfolios*/
+#portfoli{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: #539fdd;
+    background-image: url(../imgs/offline.png);
+}
+
+/*Imagenes*/
+#photo{
+    border-style: none;
+    width: 50%;
+    height:50%;
+}

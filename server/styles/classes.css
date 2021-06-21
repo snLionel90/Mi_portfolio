@@ -1,0 +1,69 @@
+/*Seccion de la cabecera*/
+.mynameis{
+  position: relative;
+  font-family:Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	font-size: 30px;
+	margin-bottom: 20px;
+  /*margin-left: 35%;*/
+  text-align: center;
+}
+
+.icon{
+  position: relative;
+	width: 44px;
+	height: 44px;
+	margin-right: 8px;
+	display: inline-block;
+
+}.icon-last
+{
+	margin-right: 0px;
+}
+
+.icon-email
+{
+	background-image: url(../imgs/icon-email.png);
+}
+
+.icon-github
+{
+	background-image: url(../imgs/icon-github.png);
+}
+
+.icon-instagram
+{
+	background-image: url(../imgs/icon-instagram.png);
+}
+
+.icon-linkedin
+{
+	background-image: url(../imgs/icon-linkedin.png);
+}
+
+/*seccion de la primera parte portfolio 1 */
+
+.portfolio_title{
+  position: relative;
+	font-family:'lato', sans-serif;
+	color: #ffffff;
+	font-size: 40px;
+	line-height: 36px;
+  text-align: center;
+	
+}
+.portfolio_body{
+  position: relative;
+	font-family:'Times New Roman', Times, serif;
+	color: #dee7ee;
+	font-size: 24px;
+  line-height: 36px;
+  text-align:center;
+  width: 500px;
+	top: 220px;
+	transform: translateY(-50%);
+  left: 20px;
+}
+
+
+/*seccion de la segunda parte del portfolio  */
